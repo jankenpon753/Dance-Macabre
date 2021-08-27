@@ -1,0 +1,34 @@
+{
+  "title": "Dance Macabre - A Brief History of the Darker Side",
+  "description": "Short histories of some of the darkest chapters in western history, including: the trial of Joan of Arc, crucifixion of Jesus Christ, the "Blood Countess" Elizabeth Báthory, Spanish Inquisition, and the Emperor Caligula.
+  A warning, some chapters are REALLY messed up, NSFW series, proceed with caution.",
+  "artist": "Ohnishi kouichi",
+  "author": "Ohnishi kouichi",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "1": {
+      "title": "The Trial Execution Of Jeanne D'are - Part 1",
+      "volume": "1",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1498730959"
+    },
+    "2": {
+      "title": "The Trial Execution Of Jeanne D'are - Part 2",
+      "volume": "1",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1498730959"
+    },
+    "3": {
+      "title": "The Cruel Emperor: Caligula - Part 1",
+      "volume": "1",
+      "groups": {
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/<imgur id>/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
