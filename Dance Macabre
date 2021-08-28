@@ -9,25 +9,25 @@
       "title": "The Trial Execution Of Jeanne D'are - Part 1",
       "volume": "1",
       "groups": {
-        "": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Little Black Butterflies": "/proxy/api/imgur/chapter/awk617Z/"
       },
-      "last_updated": "1498730959"
+      "last_updated": "1340261385"
     },
     "2": {
       "title": "The Trial Execution Of Jeanne D'are - Part 2",
       "volume": "1",
       "groups": {
-        "": "/proxy/api/imgur/chapter/<imgur id>/"
+        "Little Black Butterflies": "/proxy/api/imgur/chapter/A3t47aj/"
       },
-      "last_updated": "1498730959"
+      "last_updated": "1341125385"
     },
     "3": {
       "title": "The Cruel Emperor: Caligula - Part 1",
       "volume": "1",
       "groups": {
-        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/<imgur id>/"
+        "ROCK-paper-SCISSORS": "/proxy/api/imgur/chapter/iXwhk09/"
       },
-      "last_updated": "1616368746"
+      "last_updated": "1630133751"
     }
   }
 }
